@@ -1,8 +1,8 @@
 import React from "react";
-import ShapeDrawingPage from "./pages/ShapeDrawingPage";
+import CircleScreen from "./screen/CircleScreen";
 
 function App() {
-  return <ShapeDrawingPage />;
+  return <CircleScreen />;
 }
 
 export default App;
