@@ -1,8 +1,8 @@
 import React from "react";
-import ShapeDrawingPage from "./pages/ShapeDrawingPage";
+import MemoryGamePage from "./pages/MemoryGamePage";
 
 function App() {
-  return <ShapeDrawingPage />;
+  return <MemoryGamePage />;
 }
 
 export default App;
